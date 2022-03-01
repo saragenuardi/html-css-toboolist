@@ -129,3 +129,22 @@ ul {
 #olive {
     background-color:#B0C926 ;
 }
+
+.checked {
+    border: 2px solid #64C0A9;
+    border-radius: 80%;
+    color: #64C0A9;
+    font-size: 15px; 
+    vertical-align: middle; 
+
+ }
+
+.cross {
+    border: 2px solid red;
+    border-radius: 80%;
+    color: red;
+    font-size: 15px; 
+    vertical-align: middle; 
+}
+
+
