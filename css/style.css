@@ -51,7 +51,6 @@ body{
     margin: 0 auto;
     margin-top: 40px;
     background-color: #FFFFFF;
-    margin-left: 200px;
 }
 
 #add-task {
@@ -68,4 +67,33 @@ body{
     padding: 10px;
     border: 15px 5px grey;
     border-radius: 10%;
+}
+
+/*main*/
+
+main {
+    font-family: 'Roboto', sans-serif;
+    width: 80%;
+    margin: 0 auto;
+}
+
+ul {
+    list-style:none
+}
+
+.lista {
+    background-color: white;
+    margin-top: 5px;
+}
+
+.title-lista {
+    font: 20px;
+    padding-top: 20px;
+}
+.paragrafo-lista {
+    padding-top: 10px;
+}
+
+.title-lista:before {
+    content: "\23F7";
 }
