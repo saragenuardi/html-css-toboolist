@@ -97,3 +97,35 @@ ul {
 .title-lista:before {
     content: "\23F7";
 }
+
+.radius {
+    padding: 5px;
+    border-radius: 30%;
+    font-size: 10px;
+    color: white;
+    vertical-align: middle; 
+}
+
+#bluelight {
+    background-color: #45ABEA;
+}
+
+#violet {
+    background-color:#9C72E4 ;
+}
+
+#green {
+    background-color: #64C0A9
+}
+
+#orange {
+    background-color:#F29E33 ;
+}
+
+#pink {
+    background-color:#D863A1 ;
+}
+
+#olive {
+    background-color:#B0C926 ;
+}
